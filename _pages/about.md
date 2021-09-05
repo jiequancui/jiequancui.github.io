@@ -10,10 +10,13 @@ redirect_from:
 
 I'm a Ph.D. Candidate in The Chinese University of Hong Kong, supervided by Prof. Jiaya Jia. I received my B.E. degree from the computer science department of ShanDong University in 2018.
 
+<font color=red> I am looking for a full-time job or postdoctoral position. Please feel free to contact me through the email. </font>
+
 Research
 ======
 My research interests include model generalization, robustness, and imbalanced learning.
 I'm very glad to touch new problems in computer vision and machine learning.
+
 
 Publication \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
