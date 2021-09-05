@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. Candidate in The Chinese University of Hong Kong, supervided by Prof. Jiaya Jia. I received my B.E. degree from the computer science department of ShanDong University in 2018.
 
-<font color=red> I am looking for a full-time job or postdoctoral position. Please feel free to contact me through the email. </font>
+<font color=red> I am looking for a full-time postdoctoral position. Please feel free to contact me through the email. </font>
 
 Research
 ======
