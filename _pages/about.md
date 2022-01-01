@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Candidate in The Chinese University of Hong Kong, supervided by Prof. Jiaya Jia. I received my B.E. degree from the computer science department of ShanDong University in 2018.
+I'm a Ph.D. candidate in The Chinese University of Hong Kong (CUHK), supervided by Prof. Jiaya Jia. I received my B.E. degree from the computer science department of ShanDong University in 2018.
 
 <font color=red> I am looking for a full-time postdoctoral position. Please feel free to contact me through the email. </font>
 
 Research
 ======
-My research interests include model generalization, robustness, and imbalanced learning.
+My research interests include model generalization, robustness, imbalanced learning, and image segmentation.
 I'm very glad to touch new problems in computer vision and machine learning.
 
 
@@ -57,4 +57,9 @@ Experiences
   Mentor: Xiaoyong Shen  
   Time: 2018.09 - 2020.02  
 
-* ECCV2020 Reviewer, CVPR2021 Reviewer, ICCV2021 Reviewer  
+* Reviewer for 
+  IJCV,
+  CVPR2021,2022, 
+  ICCV2021,
+  ECCV2020, 
+  ICLR2022
