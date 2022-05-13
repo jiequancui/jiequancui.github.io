@@ -38,7 +38,7 @@ Publication \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2A
 
 * [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633.pdf)     
   **Jiequan Cui**, Shu Liu, Zhuotao Tian, Zhisheng Zhong, Jiaya Jia.     
-  Technical Report.    
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.    
   [paper](https://arxiv.org/pdf/2101.10633.pdf) [code](https://github.com/jiequancui/ResLT)     
 
 * [Fast and Practical Neural Architecture Search](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf)     
@@ -62,5 +62,6 @@ Experiences
   IJCV,
   CVPR2021,2022, 
   ICCV2021,
-  ECCV2020, 
-  ICLR2022
+  ECCV2020,2022 
+  ICLR2022,
+  NeurIPS 2022
