@@ -85,14 +85,15 @@ Experiences
   Time: 2018.09 - 2020.02  
 
 * Reviewer for Journals       
-  TPAMI,
-  IJCV,
-  TIP,
-  TNNLS
+  TPAMI,   
+  IJCV,    
+  TIP,   
+  TNNLS   
+
 * Reviewer for Conferences       
-  CVPR2021,2022, 
-  ICCV2021,2023
-  ECCV2020,2022 
-  ICLR2022,
-  NeurIPS2022, 
-  ICML2023
+  CVPR2021,2022,   
+  ICCV2021,2023,   
+  ECCV2020,2022,    
+  ICLR2022,     
+  NeurIPS2022,     
+  ICML2023       
