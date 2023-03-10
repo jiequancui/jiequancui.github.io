@@ -16,9 +16,25 @@ Research
 ======
 My research aims to build a unified accurate, reliable, robust, and open-world model, which involvs several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
-Publication \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
+
+Preprint
 ======
-\* represents equal contributions   
+\* represents equal contributions
+
+* [Genralized Parametric Contrastive Learning](https://arxiv.org/pdf/2209.12400)   
+  **Jiequan Cui**, Zhisheng Zhong, Zhuotao Tian, Shu Liu, Bei Yu, Jiaya Jia.   
+  arXiv preprint arXiv:2209.12400.    
+  [paper](https://arxiv.org/pdf/2209.12400) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
+
+* [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
+  Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.
+  [paper](https://arxiv.org/pdf/2203.11506) [code](https://github.com/dvlab-research/Imbalanced-Learning)
+
+
+Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
+======
+\* represents equal contributions
+
 
 * [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://arxiv.org/pdf/2301.01100)    
   Zhisheng Zhong\*, **Jiequan Cui\***, Yibo Yang\*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia.     
@@ -67,12 +83,12 @@ Experiences
   Mentor: Xiaoyong Shen  
   Time: 2018.09 - 2020.02  
 
-* Reviewer for Journals
+* Reviewer for Journals       
   TPAMI,
   IJCV,
   TIP,
   TNNLS
-* Reviewer for Conferences
+* Reviewer for Conferences       
   CVPR2021,2022, 
   ICCV2021,2023
   ECCV2020,2022 
