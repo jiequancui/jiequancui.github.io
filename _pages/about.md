@@ -85,7 +85,7 @@ Experiences
   Time: 2018.09 - 2020.02  
 
 * Reviewer for Journals       
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).     
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).   
   International Journal of Computer Vision (IJCV).     
   IEEE Transactions on Image Processing (TIP).        
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS).      
