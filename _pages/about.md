@@ -27,8 +27,9 @@ Preprint
   [paper](https://arxiv.org/pdf/2209.12400) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
 
 * [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
-  Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.
-  [paper](https://arxiv.org/pdf/2203.11506) [code](https://github.com/dvlab-research/Imbalanced-Learning)
+  Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.     
+  arXiv preprint arXiv:2203.11506.     
+  [paper](https://arxiv.org/pdf/2203.11506) [code](https://github.com/dvlab-research/Imbalanced-Learning)     
 
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
