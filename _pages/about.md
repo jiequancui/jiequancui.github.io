@@ -86,7 +86,7 @@ Experiences
 
 * Reviewer for Journals       
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).   
-  International Journal of Computer Vision (IJCV).     
+  International Journal of Computer Vision (IJCV).    
   IEEE Transactions on Image Processing (TIP).        
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS).      
 
