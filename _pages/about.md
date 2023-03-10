@@ -18,15 +18,15 @@ My research aims to build a unified accurate, reliable, robust, and open-world m
 
 Publication \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
-* [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://arxiv.org/pdf/2301.01100)
-  Zhisheng Zhong\*, **Jiequan Cui\***, Yibo Yang\*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
-  [paper](https://arxiv.org/pdf/2301.01100)
+* [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://arxiv.org/pdf/2301.01100)    
+  Zhisheng Zhong\*, **Jiequan Cui\***, Yibo Yang\*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia.     
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.     
+  [paper](https://arxiv.org/pdf/2301.01100)    
 
-* [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)
-  Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.
-  AAAI Conference on Artificial Intelligence (AAAI), 2023.
-  [paper](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)
+* [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)    
+  Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.    
+  AAAI Conference on Artificial Intelligence (AAAI), 2023.    
+  [paper](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)   
 
 * [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633.pdf)     
   **Jiequan Cui**, Shu Liu, Zhuotao Tian, Zhisheng Zhong, Jiaya Jia.     
