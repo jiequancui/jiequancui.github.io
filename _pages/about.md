@@ -18,6 +18,8 @@ My research aims to build a unified accurate, reliable, robust, and open-world m
 
 Publication \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
+\* represents equal contributions   
+
 * [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://arxiv.org/pdf/2301.01100)    
   Zhisheng Zhong\*, **Jiequan Cui\***, Yibo Yang\*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia.     
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.     
