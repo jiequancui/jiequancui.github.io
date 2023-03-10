@@ -17,7 +17,7 @@ Research
 My research aims to build a unified accurate, reliable, robust, and open-world model, which involvs several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
 
-Preprint
+Preprints
 ======
 \* represents equal contributions
 
