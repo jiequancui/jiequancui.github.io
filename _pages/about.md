@@ -21,11 +21,6 @@ Preprints
 ======
 \* represents equal contributions
 
-* [Genralized Parametric Contrastive Learning](https://arxiv.org/pdf/2209.12400)   
-  **Jiequan Cui**, Zhisheng Zhong, Zhuotao Tian, Shu Liu, Bei Yu, Jiaya Jia.   
-  arXiv preprint arXiv:2209.12400.    
-  [paper](https://arxiv.org/pdf/2209.12400) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
-
 * [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
   Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.     
   arXiv preprint arXiv:2203.11506.     
@@ -36,6 +31,10 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
 ======
 \* represents equal contributions
 
+* [Genralized Parametric Contrastive Learning](https://arxiv.org/pdf/2209.12400)   
+  **Jiequan Cui**, Zhisheng Zhong, Zhuotao Tian, Shu Liu, Bei Yu, Jiaya Jia.   
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.    
+  [paper](https://arxiv.org/pdf/2209.12400) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
 
 * [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://arxiv.org/pdf/2301.01100)    
   Zhisheng Zhong\*, **Jiequan Cui\***, Yibo Yang\*, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia.     
