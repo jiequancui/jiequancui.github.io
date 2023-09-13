@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Ph.D. candidate in The Chinese University of Hong Kong (CUHK), supervided by Prof. Jiaya Jia. I received my B.E. degree from the computer science department of ShanDong University in 2018.
+I'm currently a Research Fellow at Nanyang Technological University (NTU), working with Prof. Hanwang Zhang.
+I obtained my Ph.D. degree in The Chinese University of Hong Kong (CUHK), supervided by Prof. Jiaya Jia and Prof. Bei Yu in 2022. Before that, I received my B.E. degree from the Computer Science Department of ShanDong University in 2018.
 
 
 
@@ -16,10 +16,16 @@ Research
 ======
 My research aims to build a unified accurate, reliable, robust, and open-world model, which involvs several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
+Good representation is essential to robustness and generalization. I'm interested in understanding and exploring the nature relations and differences between generative, discriminative, and multi-modal representations.   
+
+
 
 Preprints
 ======
 \* represents equal contributions
+
+* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)
+  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.
 
 * [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
   Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.     
@@ -41,11 +47,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.     
   [paper](https://arxiv.org/pdf/2301.01100)    
 
-* [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)    
-  Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.    
-  AAAI Conference on Artificial Intelligence (AAAI), 2023.    
-  [paper](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)   
-
 * [ResLT: Residual Learning for Long-tailed Recognition](https://arxiv.org/pdf/2101.10633.pdf)     
   **Jiequan Cui**, Shu Liu, Zhuotao Tian, Zhisheng Zhong, Jiaya Jia.     
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.    
@@ -61,15 +62,21 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
    IEEE International Conference on Computer Vision (ICCV), 2021.      
    [paper](https://arxiv.org/pdf/2011.11164.pdf) [code](https://github.com/jiequancui/LBGAT)      
 
+* [Fast and Practical Neural Architecture Search](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf)     
+  **Jiequan Cui**, Pengguang Chen, Ruiyu Li, Shu Liu, Xiaoyong Shen, Jiaya Jia.     
+  IEEE International Conference on Computer Vision (ICCV), 2019.     
+  [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)     
+
+* [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)    
+  Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.    
+  AAAI Conference on Artificial Intelligence (AAAI), 2023.    
+  [paper](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)   
+
 * [Improving Calibration for Long-Tailed Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf)      
    Zhisheng Zhong, **Jiequan Cui**, Shu Liu, Jiaya Jia.       
    IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.      
    [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf) [code](https://github.com/Jia-Research-Lab/MiSLAS)      
 
-* [Fast and Practical Neural Architecture Search](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf)     
-  **Jiequan Cui\***, Pengguang Chen\*, Ruiyu Li, Shu Liu, Xiaoyong Shen, Jiaya Jia.     
-  IEEE International Conference on Computer Vision (ICCV), 2019.     
-  [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)     
 
 Experiences 
 ======
