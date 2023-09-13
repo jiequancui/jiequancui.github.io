@@ -24,8 +24,10 @@ Preprints
 ======
 \* represents equal contributions
 
-* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)
-  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.
+* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
+  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
+  arXiv preprint arXiv:2305.13948.     
+  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)     
 
 * [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
   Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.     
