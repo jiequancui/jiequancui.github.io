@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 I'm currently a Research Fellow at Nanyang Technological University (NTU), working with Prof. Hanwang Zhang.
+
 I obtained my Ph.D. degree in The Chinese University of Hong Kong (CUHK), supervided by Prof. Jiaya Jia and Prof. Bei Yu in 2022. Before that, I received my B.E. degree from the Computer Science Department of ShanDong University in 2018.
 
 
 
 Research
 ======
-My research aims to build a unified accurate, reliable, robust, and open-world model, which involvs several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
+My research aims to build a unified accurate, reliable, robust, and open-world model, which involves several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
 Good representation is essential to robustness and generalization. I'm interested in understanding and exploring the nature relations and differences between generative, discriminative, and multi-modal representations.   
 
