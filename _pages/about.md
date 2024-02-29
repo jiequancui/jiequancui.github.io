@@ -17,7 +17,7 @@ Research
 ======
 My research aims to build a unified accurate, reliable, robust, and open-world model, which involves several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
-Good representation is essential to robustness and generalization. I'm interested in understanding and exploring the nature relations and differences between generative, discriminative, and multi-modal representations.   
+Good representation is essential to robustness and generalization. I'm interested in understanding and exploring the nature relations and differences among generative (diffusion models), discriminative, and multi-modal (LLM, VLM) representations.   
 
 
 
@@ -39,6 +39,12 @@ Preprints
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
 \* represents equal contributions
+
+* [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](https://arxiv.org/pdf/2402.18133)      
+  **Jiequan Cui**, Beier Zhu, Xin Wen, Xiaojuan Qi, Bei Yu, Hanwang Zhang.      
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.        
+  [paper](https://arxiv.org/pdf/2402.18133) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
+
 
 * [Genralized Parametric Contrastive Learning](https://arxiv.org/pdf/2209.12400)   
   **Jiequan Cui**, Zhisheng Zhong, Zhuotao Tian, Shu Liu, Bei Yu, Jiaya Jia.   
@@ -69,6 +75,11 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
   **Jiequan Cui**, Pengguang Chen, Ruiyu Li, Shu Liu, Xiaoyong Shen, Jiaya Jia.     
   IEEE International Conference on Computer Vision (ICCV), 2019.     
   [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)     
+
+* [Doubly Abductive Counterfactual Inference for Text-based Image Editing]()    
+  Xue Song, **Jiequan Cui**, Hanwang Zhang, Jingjing Chen, Richang Hong, YuGang Jiang.       
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.      
+  [paper]()      
 
 * [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)    
   Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.    
