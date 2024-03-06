@@ -79,7 +79,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
 * [Doubly Abductive Counterfactual Inference for Text-based Image Editing]()    
   Xue Song, **Jiequan Cui**, Hanwang Zhang, Jingjing Chen, Richang Hong, YuGang Jiang.       
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.      
-  [paper]()      
+  [paper](https://arxiv.org/pdf/2403.02981.pdf) [code](https://github.com/xuesong39/DAC)      
 
 * [Learning Context-aware Classifier for Semantic Segmentation](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf)    
   Zhuotao Tian, **Jiequan Cui**, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia.    
