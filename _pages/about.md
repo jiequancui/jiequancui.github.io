@@ -15,17 +15,12 @@ I obtained my Ph.D. degree in The Chinese University of Hong Kong (CUHK), superv
 
 Research
 ======
-#My research aims to build a unified accurate, reliable, robust, and open-world model, which involves several fundamental problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
+Data-centric AI opens the door to Artificial General Intelligence (AGI). However, various biases in large-scale datasets often limit the capabilities of trained models. Removing these biases can enhance the efficiency of training data while improving model generalization and robustness.
+I am interested in fundamental research on model generalization and robustness across different data distributions. This includes challenges in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
 
-#Good representation is essential to robustness and generalization. I'm interested in understanding and exploring the nature relations and differences among generative (diffusion models), discriminative, and multi-modal (LLM, VLM) representations.   
+Additionally, I aim to understand the behaviors of large models, such as Stable Diffusion models, LLMs, and VLMs, and their applications in downstream tasks.
 
-Data-centric AI opens the door to Artificial General Intelligence (AGI). However, various data bias, existing in large-scale data, often limits the capabilities of trained models. Removing the data bias can increase the efficiency of training data meanwhile improve model generalization and robustness.
-I'm interested in the fundamental research in model generalization and robustness on different data distributions, which involves problems in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
-
-Understanding the behaviors of large models, like the Stable Diffusion models, LLMs, and VLMs, and their applications in downstream tasks. 
-   
-I'm glad to touch on new problems related to machine learning, like AI for science, and 3D problems.
-
+I am excited to explore new machine learning problems, including AI for science and 3D modeling challenges.
 
 
 Preprints
@@ -36,11 +31,6 @@ Preprints
   **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
   arXiv preprint arXiv:2305.13948.     
   [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)     
-
-#* [Rebalanced Siamese Contrastive Mining for Long-Tailed Recognition](https://arxiv.org/pdf/2203.11506)    
-#  Zhisheng Zhong, **Jiequan Cui**, Eric Lo, Zeming Li, Jian Sun, Jiaya Jia.     
-#  arXiv preprint arXiv:2203.11506.     
-#  [paper](https://arxiv.org/pdf/2203.11506) [code](https://github.com/dvlab-research/Imbalanced-Learning)     
 
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
