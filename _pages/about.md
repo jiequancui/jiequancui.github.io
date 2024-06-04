@@ -15,8 +15,7 @@ I obtained my Ph.D. degree in The Chinese University of Hong Kong (CUHK), superv
 
 Research
 ======
-Data-centric AI opens the door to Artificial General Intelligence (AGI). However, various biases in large-scale datasets often limit the capabilities of trained models. Removing these biases can enhance the efficiency of training data while improving model generalization and robustness.
-I am interested in fundamental research on model generalization and robustness across different data distributions. This includes challenges in computer vision and machine learning, such as distribution shifts, adversarial examples, and out-of-distribution generalization.
+Data-centric AI opens the door to Artificial General Intelligence (AGI). However, data biases inevitably exist in large-scale data, like data imbalance, spurious correlations among classes, and annotation noise. I'm interested in fundamental research of model generalization and robustness on different data distributions, realizing effective usage of large-scale data and that the trained models do not suffer from data biases. It usually involves problems in machine learning and computer vision, like distribution shifts, adversarial robustness, fairness, and out-of-distribution generalization.
 
 Additionally, I aim to understand the behaviors of large models, such as Stable Diffusion models, LLMs, and VLMs, and their applications in downstream tasks.
 
