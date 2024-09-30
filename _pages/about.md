@@ -82,7 +82,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
 * [Instruction Tuning-free Visual Token Complement for Multimodal LLMs](https://arxiv.org/pdf/2408.05019)     
   Dongsheng Wang, **Jiequan Cui**, Miaoge Li, Wang Lin, Bo Chen, Hanwang Zhang.    
   European Conference on Computer Vision (ECCV), 2024.      
-  [paper](https://arxiv.org/pdf/2408.05019)
+  [paper](https://arxiv.org/pdf/2408.05019)    
 
 * [Doubly Abductive Counterfactual Inference for Text-based Image Editing]()    
   Xue Song, **Jiequan Cui**, Hanwang Zhang, Jingjing Chen, Richang Hong, YuGang Jiang.       
