@@ -22,19 +22,16 @@ Additionally, I aim to understand the behaviors of large models, such as Stable 
 I am excited to explore new machine learning problems, including AI for science and 3D modeling challenges.
 
 
-Preprints
+
+Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
 \* represents equal contributions
 
 * [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
   **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
-  arXiv preprint arXiv:2305.13948.     
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
   [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)     
 
-
-Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
-======
-\* represents equal contributions
 
 * [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](https://arxiv.org/pdf/2402.18133)      
   **Jiequan Cui**, Beier Zhu, Xin Wen, Xiaojuan Qi, Bei Yu, Hanwang Zhang.      
@@ -70,7 +67,21 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
 * [Fast and Practical Neural Architecture Search](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf)     
   **Jiequan Cui**, Pengguang Chen, Ruiyu Li, Shu Liu, Xiaoyong Shen, Jiaya Jia.     
   IEEE International Conference on Computer Vision (ICCV), 2019.     
-  [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)     
+  [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)    
+
+* [Robust Fine-tuning of Zero-shot Models via Variance Reduction]()    
+  Beier Zhu, **Jiequan Cui**, Hanwang Zhang.    
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
+  [paper]()     
+
+* [Typicalness-Aware Learning for Failure Detection]()    
+  Yijun Liu, **Jiequan Cui**, Zhuotao Tian, Senqiao Yang, Qingdong He, Xiaoling Wang, Jingyong Su.   
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
+  [paper]()    
+
+* [Instruction Tuning-free Visual Token Complement for Multimodal LLMs](https://arxiv.org/pdf/2408.05019)
+  Dongsheng Wang, **Jiequan Cui**, Miaoge Li, Wang Lin, Bo Chen, Hanwang Zhang.
+  [paper](https://arxiv.org/pdf/2408.05019)
 
 * [Doubly Abductive Counterfactual Inference for Text-based Image Editing]()    
   Xue Song, **Jiequan Cui**, Hanwang Zhang, Jingjing Chen, Richang Hong, YuGang Jiang.       
