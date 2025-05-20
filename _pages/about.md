@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a Research Fellow at Nanyang Technological University (NTU), working with Prof. Hanwang Zhang.
+I am currently a Full Professor at Hefei University of Technology.
 
-I obtained my Ph.D. degree in The Chinese University of Hong Kong (CUHK), supervided by Prof. Jiaya Jia and Prof. Bei Yu in 2022. Before that, I received my B.E. degree from the Computer Science Department of ShanDong University in 2018.
+I received my Ph.D. degree from The Chinese University of Hong Kong (CUHK) in 2022, under the supervision of Prof. Jiaya Jia and Prof. Bei Yu. Prior to that, I obtained my B.E. degree in Computer Science from Shandong University in 2018. I also spent two wonderful years at Nanyang Technological University.
 
 
 
@@ -20,6 +20,8 @@ Data-centric AI opens the door to Artificial General Intelligence (AGI). However
 Additionally, I aim to understand the behaviors of large models, such as Stable Diffusion models, LLMs, and VLMs, and their applications in downstream tasks.
 
 I am excited to explore new machine learning problems, including AI for science and 3D modeling challenges.
+
+
 
 
 
@@ -69,10 +71,20 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2
   IEEE International Conference on Computer Vision (ICCV), 2019.     
   [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Fast_and_Practical_Neural_Architecture_Search_ICCV_2019_paper.pdf) [code](https://github.com/jiequancui/FPNASNet)    
 
-* [Robust Fine-tuning of Zero-shot Models via Variance Reduction]()    
+* [Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness](https://arxiv.org/pdf/2503.09487)          
+  Beier Zhu, **Jiequan Cui**, Hanwang Zhang, Chi Zhang.
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.     
+  [paper](https://arxiv.org/pdf/2503.09487)    
+
+* [CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction](https://arxiv.org/pdf/2411.16170)    
+  Yuan Zhou, Qingshan Xu, **Jiequan Cui**, Junbao Zhou, Jing Zhang, Richang Hong, Hanwang Zhang.         
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.     
+  [paper](https://arxiv.org/pdf/2411.16170)    
+
+* [Robust Fine-tuning of Zero-shot Models via Variance Reduction](https://arxiv.org/pdf/2411.06966)                  
   Beier Zhu, **Jiequan Cui**, Hanwang Zhang.    
   Conference on Neural Information Processing Systems (NeurIPS), 2024.    
-  [paper]()     
+  [paper](https://arxiv.org/pdf/2411.06966)     
 
 * [Typicalness-Aware Learning for Failure Detection]()    
   Yijun Liu, **Jiequan Cui**, Zhuotao Tian, Senqiao Yang, Qingdong He, Xiaoling Wang, Jingyong Su.   
