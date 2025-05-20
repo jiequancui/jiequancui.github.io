@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiequan"
 title_separator          : "-"
 name                     : &name "Cui Jiequan (崔洁全)"
-description              : &description "Research Fellow at NTU"
+description              : &description "Professor at HFUT"
 url                      : https://jiequancui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiequancui/jiequancui.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Cui Jiequan (崔洁全)"
   avatar           : "profile.png"
-  bio              : "Research Fellow at NTU"
-  location         : "Singapore"
+  bio              : "Professor at HFUT"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN"
