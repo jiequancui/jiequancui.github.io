@@ -9,17 +9,17 @@ redirect_from:
 ---
 I am currently a Full Professor at Hefei University of Technology.
 
-I received my Ph.D. degree from The Chinese University of Hong Kong (CUHK) in 2022, under the supervision of Prof. Jiaya Jia and Prof. Bei Yu. Prior to that, I obtained my B.E. degree in Computer Science from Shandong University in 2018. I also spent two wonderful years at Nanyang Technological University (NTU), SingaPore. [CV](https://github.com/jiequancui/jiequancui.github.io/tree/master/_data/cv_jiequan.pdf)
+I received my Ph.D. degree from The Chinese University of Hong Kong (CUHK) in 2022, under the supervision of Prof. Jiaya Jia and Prof. Bei Yu. Prior to that, I obtained my B.E. degree in Computer Science from Shandong University in 2018. I also spent two wonderful years at Nanyang Technological University (NTU), Singapore. [CV](https://github.com/jiequancui/jiequancui.github.io/tree/master/_data/cv_jiequan.pdf)
 
 
 
 Research
 ======
-Data-centric AI opens the door to Artificial General Intelligence (AGI). I'm interested in developing new algorithms and theories (\textit{e.g.}, contrastive learning, generative learning) to effectively leverage data, thereby improving model generalization and robustness.
+Data-centric AI plays a crucial role in advancing towards Artificial General Intelligence (AGI). My research focuses on developing novel algorithms and theoretical foundations — such as contrastive learning and generative learning — to more effectively leverage data for enhancing model generalization and robustness.
 
-Additionally, my team also focuses on the research of multi-modal alignment and robustness (Jailbreaking, Adversarial attack and robustness, and Hallucinations) in large models including LLMs and VLMs.
+In addition, my team actively explores multi-modal alignment and robustness in large models, including LLMs and VLMs. Our work addresses critical challenges such as jailbreak attacks, adversarial robustness, and hallucination mitigation.
 
-I'm always excited to explore new machine learning problems, including AI for science and 3D modeling challenges.
+I am also broadly interested in emerging machine learning topics, including AI for science and 3D modeling, and always enthusiastic about tackling new challenges in these domains.
 
 
 
