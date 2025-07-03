@@ -63,12 +63,12 @@ Selected Publications \[[Google Scholar](https://scholar.google.com/citations?us
 Full Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
 \* represents equal contributions
-* [Learnable Feature Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge] \\
+* [Learnable Feature Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge]() \\
   Xiaogang Xu, Jiafei Wu, Qingsen Yan, **Jiequan Cui**, Richang Hong, Bei Yu. \\
   IEEE International Conference on Computer Vision (\textbf{ICCV}), 2025 \\
   [paper]()
 
-* [Aligned Contrastive Loss for Long-Tailed Recognition] \\
+* [Aligned Contrastive Loss for Long-Tailed Recognition](https://arxiv.org/pdf/2506.01071) \\
   Jiali Ma, **Jiequan Cui**, Maeno Kazuki, Lakshmi Subramanian, Karlekar Jayashree, Sugiri Pranata, Hanwang Zhang. \\
   IEEE Conference on Computer Vision and Pattern Recognition (\textbf{CVPR workshop}), 2025. \\
   [paper](https://arxiv.org/pdf/2506.01071)
