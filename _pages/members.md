@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Ph.D. Students"
 permalink: /members/
 ---
