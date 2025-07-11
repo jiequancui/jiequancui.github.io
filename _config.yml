@@ -252,7 +252,6 @@ defaults:
       path: ""
       type: members 
     values:
-      layout: single 
       author_profile: true
       share: true
 
