@@ -1,8 +1,8 @@
 ---
-name: "Jiequan Doe"
+name: "Ruobei Zhang (张若北)"
 title: "Ph.D. Student"
-image: "/images/jiequan.jpg"
-description: "Researches representation learning and multimodal models."
+image: "/images/ruobei.jpg"
+description: "B.E. degree at HFUT; Image generation and multi-modal understanding"
 collection: members
 category: phd
 ---

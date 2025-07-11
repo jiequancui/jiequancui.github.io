@@ -1,8 +1,8 @@
 ---
-name: "Jiequan Doe"
+name: "Shaofeng Guo"
 title: "Ph.D. Student"
-image: "/images/jiequan.jpg"
-description: "Researches representation learning and multimodal models."
+image: "/images/shaofeng.jpg"
+description: "B.E. degree at HFUT; Robustness and multi-modal understanding"
 collection: members
 category: phd
 ---
