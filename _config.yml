@@ -247,13 +247,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
   # _members
   - scope:
       path: ""
       type: members 
     values:
-      layout: member 
+      layout: single 
       author_profile: true
       share: true
 
