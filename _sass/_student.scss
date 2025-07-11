@@ -1,0 +1,16 @@
+.student-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.student-card {
+  width: 200px;
+  text-align: center;
+}
+
+.student-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+

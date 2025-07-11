@@ -1,14 +1,18 @@
 ---
-layout: archive
-title: "Team Members"
-permalink: /members/
-author_profile: true
+layout: default
+title: "Ph.D. Students"
+permalink: /members/phd-students/
 ---
 
-{% include base_path %}
+<h1>Ph.D. Students</h1>
 
-
-{% for post in site.members %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="student-grid">
+  {% assign phd_students = site.members | where: "category", "phd" %}
+  {% for student in phd_students %}
+    <div class="student-card">
+      <img src="{{ student.image }}" alt="{{ student.name }}" />
+      <h3>{{ student.name }}</h3>
+      <p>{{ student.description }}</p>
+    </div>
+  {% endfor %}
+</div>
