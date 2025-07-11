@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ph.D. Students"
-permalink: /phd-students/
+permalink: /members/
 ---
 
 <h1>Ph.D. Students</h1>
