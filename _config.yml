@@ -252,6 +252,7 @@ defaults:
       path: ""
       type: members 
     values:
+      layer_out: single
       author_profile: true
       share: true
 
