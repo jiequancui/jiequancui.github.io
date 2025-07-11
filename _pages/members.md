@@ -6,7 +6,7 @@ permalink: /members/
 
 <h1>Ph.D. Students</h1>
 
-<div class="student-row">
+<div class="student-grid">
   {% assign phd_students = site.members | where: "category", "phd" %}
   {% for student in phd_students %}
     <div class="student-card">
@@ -16,4 +16,3 @@ permalink: /members/
     </div>
   {% endfor %}
 </div>
-
