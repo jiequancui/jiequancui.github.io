@@ -63,7 +63,19 @@ Selected Publications \[[Google Scholar](https://scholar.google.com/citations?us
 Full Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
 \* represents equal contributions
-* [Learnable Feature Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge]() \\
+* [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826) \\
+  Qingshan Xu, **Jiequan Cui**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang \\
+  AAAI Conference on Artificial Intelligence (AAAI), 2026.    
+
+* [NeuSpring: Neural Spring Fields for Reconstruction and Simulation of Deformable Objects from Videos](https://arxiv.org/pdf/2511.08310) \\
+  Qingshan Xu, Jiao Liu, Shangshu Yu, Yuxuan Wang, Yuan Zhou, Junbao Zhou, **Jiequan Cui**, Yew-Soon Ong, Hanwang Zhang \\
+  AAAI Conference on Artificial Intelligence (AAAI), 2026.    
+
+* [Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example](https://openreview.net/pdf?id=hIdnWVxA9Z) \\
+  Xue Song, Zhongqi Yue, **Jiequan Cui**, Hanwang Zhang, JingJing Chen. \\
+  AAAI Conference on Artificial Intelligence (AAAI), 2026.    
+
+* [Learnable Fea  ture Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Learnable_Feature_Patches_and_Vectors_for_Boosting_Low-light_Image_Enhancement_ICCV_2025_paper.pdf) \\
   Xiaogang Xu, Jiafei Wu, Qingsen Yan, **Jiequan Cui**, Richang Hong, Bei Yu. \\
   IEEE International Conference on Computer Vision (ICCV), 2025 \\
   [paper]()
