@@ -1,16 +1,10 @@
-.student-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
+student-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);  /* 3 per row */
+  gap: 20px;  /* spacing between cards */
+  margin-bottom: 40px; /* gives space after each grid section */
 }
 
 .student-card {
-  width: 200px;
   text-align: center;
 }
-
-.student-card img {
-  width: 100%;
-  border-radius: 10px;
-}
-
