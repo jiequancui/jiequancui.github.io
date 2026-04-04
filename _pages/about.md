@@ -72,27 +72,25 @@ Full Publications \[[Google Scholar](https://scholar.google.com/citations?user=K
   Beier Zhu, Kesen Zhao, **Jiequan Cui**, Qianru Sun, Yuan Zhou, Xun Yang, Hanwang Zhang      
   The Fourteenth International Conference on Learning Representations (ICLR), 2026.
 
-* [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826) \\
-  Qingshan Xu, **Jiequan Cui &dagger;**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang \\
+* [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826)      
+  Qingshan Xu, **Jiequan Cui &dagger;**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
-* [NeuSpring: Neural Spring Fields for Reconstruction and Simulation of Deformable Objects from Videos](https://arxiv.org/pdf/2511.08310) \\
-  Qingshan Xu, Jiao Liu, Shangshu Yu, Yuxuan Wang, Yuan Zhou, Junbao Zhou, **Jiequan Cui**, Yew-Soon Ong, Hanwang Zhang \\
+* [NeuSpring: Neural Spring Fields for Reconstruction and Simulation of Deformable Objects from Videos](https://arxiv.org/pdf/2511.08310)    
+  Qingshan Xu, Jiao Liu, Shangshu Yu, Yuxuan Wang, Yuan Zhou, Junbao Zhou, **Jiequan Cui**, Yew-Soon Ong, Hanwang Zhang
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
-* [Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example](https://openreview.net/pdf?id=hIdnWVxA9Z) \\
-  Xue Song, Zhongqi Yue, **Jiequan Cui**, Hanwang Zhang, JingJing Chen. \\
+* [Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example](https://openreview.net/pdf?id=hIdnWVxA9Z)      
+  Xue Song, Zhongqi Yue, **Jiequan Cui**, Hanwang Zhang, JingJing Chen.     
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
-* [Learnable Fea  ture Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Learnable_Feature_Patches_and_Vectors_for_Boosting_Low-light_Image_Enhancement_ICCV_2025_paper.pdf) \\
-  Xiaogang Xu, Jiafei Wu, Qingsen Yan, **Jiequan Cui**, Richang Hong, Bei Yu. \\
-  IEEE International Conference on Computer Vision (ICCV), 2025 \\
-  [paper]()
+* [Learnable Feature Patches and Vectors for Boosting Low-light Image Enhancement without External Knowledge](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Learnable_Feature_Patches_and_Vectors_for_Boosting_Low-light_Image_Enhancement_ICCV_2025_paper.pdf)     
+  Xiaogang Xu, Jiafei Wu, Qingsen Yan, **Jiequan Cui**, Richang Hong, Bei Yu.    
+  IEEE International Conference on Computer Vision (ICCV), 2025.     
 
-* [Aligned Contrastive Loss for Long-Tailed Recognition](https://arxiv.org/pdf/2506.01071) \\
-  Jiali Ma, **Jiequan Cui**, Maeno Kazuki, Lakshmi Subramanian, Karlekar Jayashree, Sugiri Pranata, Hanwang Zhang. \\
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR workshop), 2025. \\
-  [paper](https://arxiv.org/pdf/2506.01071)
+* [Aligned Contrastive Loss for Long-Tailed Recognition](https://arxiv.org/pdf/2506.01071)     
+  Jiali Ma, **Jiequan Cui**, Maeno Kazuki, Lakshmi Subramanian, Karlekar Jayashree, Sugiri Pranata, Hanwang Zhang.      
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR workshop), 2025.    
 
 * [Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness](https://arxiv.org/pdf/2503.09487)          
   Beier Zhu, **Jiequan Cui**, Hanwang Zhang, Chi Zhang.
