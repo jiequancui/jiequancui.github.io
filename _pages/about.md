@@ -62,9 +62,17 @@ Selected Publications \[[Google Scholar](https://scholar.google.com/citations?us
 
 Full Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
-\* represents equal contributions
+\* represents equal contributions  \dagger represents corresponding author
+* [Rethinking VLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2603.12930) \\
+  Shaofeng Guo, **Jiequan Cui \dagger**, Richang Hong \\
+  Findings of the Conference on Computer Vision and Pattern Recognition (Findings of CVPR), 2026. 
+
+* [Reducing Class-Wise Performance Disparity via Margin Regularization](https://arxiv.org/pdf/2602.00205) \\
+  Beier Zhu, Kesen Zhao, **Jiequan Cui**, Qianru Sun, Yuan Zhou, Xun Yang, Hanwang Zhang \\
+  The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+
 * [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826) \\
-  Qingshan Xu, **Jiequan Cui**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang \\
+  Qingshan Xu, **Jiequan Cui \dagger**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang \\
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
 * [NeuSpring: Neural Spring Fields for Reconstruction and Simulation of Deformable Objects from Videos](https://arxiv.org/pdf/2511.08310) \\
