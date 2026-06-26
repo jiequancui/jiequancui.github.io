@@ -30,8 +30,8 @@ Selected Publications \[[Google Scholar](https://scholar.google.com/citations?us
 \* represents equal contributions
 * [Generalized Kullback-Leibler Divergence Loss]()         
   **Jiequan Cui**, Beier Zhu, Qingshan Xu, Zhuotao Tian, Xiaojuan Qi, Bei Yu, Hanwang Zhang, Richang Hong \\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
-  [paper](https://arxiv.org/pdf/2503.08038) [code](https://github.com/jiequancui/DKL)
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.                   
+  [paper](https://arxiv.org/pdf/2503.08038) [code](https://github.com/jiequancui/DKL)             
 
 * [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
   **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
