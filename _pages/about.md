@@ -15,7 +15,7 @@ I received my Ph.D. degree from The Chinese University of Hong Kong (CUHK) in 20
 
 Research
 ======
-Data-centric AI plays a crucial role in advancing towards Artificial General Intelligence (AGI). My research focuses on developing novel algorithms and theoretical foundations — such as contrastive learning and generative learning — to more effectively leverage data for enhancing model generalization and robustness.
+Data-centric AI plays a crucial role in advancing towards Artificial General Intelligence (AGI). My research focuses on developing novel algorithms and theoretical foundations — such as contrastive learning and generative learning — to more effectively leverage data for enhancing model generalization and robustness. Besides diffusion-based generative learning, our team focuses on multi-modal agents and spatial intelligence.
 
 In addition, my team actively explores multi-modal alignment and robustness in large models, including LLMs and VLMs. Our work addresses critical challenges such as jailbreak attacks, adversarial robustness, and hallucination mitigation.
 
@@ -28,16 +28,15 @@ I am also broadly interested in emerging machine learning topics, including AI f
 Selected Publications \[[Google Scholar](https://scholar.google.com/citations?user=KbXLN2AAAAAJ&hl=zh-CN)\]
 ======
 \* represents equal contributions
+* [Generalized Kullback-Leibler Divergence Loss]()         
+  **Jiequan Cui**, Beier Zhu, Qingshan Xu, Zhuotao Tian, Xiaojuan Qi, Bei Yu, Hanwang Zhang, Richang Hong \\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+  [paper](https://arxiv.org/pdf/2503.08038) [code](https://github.com/jiequancui/DKL)
 
 * [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
   **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
   Conference on Neural Information Processing Systems (NeurIPS), 2024.    
   [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)     
-
-* [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](https://arxiv.org/pdf/2402.18133)      
-  **Jiequan Cui**, Beier Zhu, Xin Wen, Xiaojuan Qi, Bei Yu, Hanwang Zhang.      
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.        
-  [paper](https://arxiv.org/pdf/2402.18133) [code](https://github.com/jiequancui/Parametric-Contrastive-Learning)      
 
 * [Genralized Parametric Contrastive Learning](https://arxiv.org/pdf/2209.12400)   
   **Jiequan Cui**, Zhisheng Zhong, Zhuotao Tian, Shu Liu, Bei Yu, Jiaya Jia.   
@@ -64,20 +63,31 @@ Full Publications \[[Google Scholar](https://scholar.google.com/citations?user=K
 ======
 \* represents equal contributions  &dagger; represents corresponding author
 
+* [LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair](https://arxiv.org/pdf/2411.19156?)               
+  Xue Song, **Jiequan Cui**, Hanwang Zhang, Jiaxin Shi, Jingjing Chen, Chi Zhang, Yu-Gang Jiang       
+  IEEE Transactions on Image Processing (TIP), 2026.              
+  [paper](https://arxiv.org/pdf/2411.19156?)               
+
+* [Generalized Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2503.08038)                      
+  **Jiequan Cui**, Beier Zhu, Qingshan Xu, Zhuotao Tian, Xiaojuan Qi, Bei Yu, Hanwang Zhang, Richang Hong        
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.         
+  [paper](https://arxiv.org/pdf/2503.08038) [code](https://github.com/jiequancui/DKL)              
+
 * [Rethinking VLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2603.12930)     
   Shaofeng Guo, **Jiequan Cui &dagger;**, Richang Hong       
-  Findings of the Conference on Computer Vision and Pattern Recognition (Findings of CVPR), 2026. 
+  Findings of the Conference on Computer Vision and Pattern Recognition (Findings of CVPR), 2026.                 
+  [paper](https://arxiv.org/abs/2603.12930) [code](https://github.com/sha0fengGuo/IFDL-VLM)                 
 
 * [Reducing Class-Wise Performance Disparity via Margin Regularization](https://arxiv.org/pdf/2602.00205)         
   Beier Zhu, Kesen Zhao, **Jiequan Cui**, Qianru Sun, Yuan Zhou, Xun Yang, Hanwang Zhang      
-  The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+  The Fourteenth International Conference on Learning Representations (ICLR), 2026.             
 
-* [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826)      
-  Qingshan Xu, **Jiequan Cui &dagger;**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang
+* [Pushing Rendering Boundaries: Hard Gaussian Splahtting](https://arxiv.org/pdf/2412.04826)         
+  Qingshan Xu, **Jiequan Cui &dagger;**, Xuanyu Yi, Yuxuan Wang, Yuan Zhou, Yew-Soon Ong, Hanwang Zhang                     
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
 * [NeuSpring: Neural Spring Fields for Reconstruction and Simulation of Deformable Objects from Videos](https://arxiv.org/pdf/2511.08310)    
-  Qingshan Xu, Jiao Liu, Shangshu Yu, Yuxuan Wang, Yuan Zhou, Junbao Zhou, **Jiequan Cui**, Yew-Soon Ong, Hanwang Zhang
+  Qingshan Xu, Jiao Liu, Shangshu Yu, Yuxuan Wang, Yuan Zhou, Junbao Zhou, **Jiequan Cui**, Yew-Soon Ong, Hanwang Zhang                         
   AAAI Conference on Artificial Intelligence (AAAI), 2026.    
 
 * [Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example](https://openreview.net/pdf?id=hIdnWVxA9Z)      
